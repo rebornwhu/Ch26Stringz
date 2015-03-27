@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C2931C6F-C9EC-45A8-83DD-B31034D6B4CD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Ch26Stringz</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>258C9B9A-0647-4B76-87D0-972ED700B1B8</key>
+		<string>https://github.com/rebornwhu/Ch26Stringz.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Ch26Stringz.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>258C9B9A-0647-4B76-87D0-972ED700B1B8</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/rebornwhu/Ch26Stringz.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>258C9B9A-0647-4B76-87D0-972ED700B1B8</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>258C9B9A-0647-4B76-87D0-972ED700B1B8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Ch26Stringz</string>
+		</dict>
+	</array>
+</dict>
+</plist>
